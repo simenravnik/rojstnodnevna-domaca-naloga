@@ -1,0 +1,1 @@
+#preveri ali je palindrom
