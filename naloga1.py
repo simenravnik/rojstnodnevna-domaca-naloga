@@ -1,5 +1,12 @@
 #soda fibonaccijeva stevila
 
+a = 1
+b = 1
 
+while (b < 100):
+    c = b
+    b = a + c
+    a = c
 
-# tinka test
+    if a % 2 == 0:
+        print(a)
